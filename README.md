@@ -21,6 +21,6 @@ Estou atualmente focado em aprender desenvolvimento Web, Mobile e quem saiba out
 - [ ] Banco de Dados SQL
 
 Estou focado em projetos que usam JS (Node)
-Em breve tentar TypeScript
+Em breve irei tentar TypeScript!
 
 *Estudante Técnico na FAETEC* 🚀
