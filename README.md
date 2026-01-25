@@ -13,4 +13,14 @@ Estou atualmente focado em aprender desenvolvimento Web, Mobile e quem saiba out
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
+### 📚 Meus Estudos Atuais
+- [x] Lógica de Programação
+- [x] HTML5 & CSS3 Básico
+- [x] JavaScript (DOM e Eventos)
+- [ ] Banco de Dados SQL
+
+Estou focado em projetos que usam JS (Node)
+Em breve tentar TypeScript
+
 *Estudante Técnico na FAETEC* 🚀
