@@ -1,7 +1,7 @@
-### Salve!! 👋 Sou atualmente um estudante de Informática para Internet na instituição da FAETEC ETEOT e Graduando em computação pela Gran.
+### Salve!! 👋 *Sou atualmente um estudante de Informática para Internet na instituição da FAETEC ETEOT e Graduando em computação pela Gran.*
 
 Estou atualmente focado em aprender desenvolvimento Web, Mobile e outras linguagens!
-Ainda estou vendo se vou me encaixar no Front ou Back-End 
+Ainda estou vendo onde vou me encaixar se vai ser Front, Back-End ou FullStack.
 
 **Linguagens e Ferramentas que estou estudando:**
 
@@ -21,6 +21,6 @@ Ainda estou vendo se vou me encaixar no Front ou Back-End
 - [x] JavaScript (DOM e Eventos)
 - [ ] Banco de Dados SQL
 
-Estou focado em projetos que usam JS (Node)!
+---
 
-*Estudante Técnico na FAETEC* 🚀
+*Estudante Técnico na FAETEC e Graduando em Computação* 🚀
