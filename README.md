@@ -1,4 +1,4 @@
-👋 Bem-vindo(a) ao meu perfil!
+### Olá! 👋 Bem-vindo(a) ao meu perfil!
 
 **Desenvolvedor Back-end | Técnico em Informática para Internet (FAETEC ETEOT) | Graduando em Análise e Desenvolvimento de Sistemas (Gran)**
 
@@ -15,6 +15,12 @@ Sou apaixonado por tecnologia, arquitetura de software e resolução de problema
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-blanco7/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardocost4a/)
 
 ---
 
@@ -28,4 +34,4 @@ Sou apaixonado por tecnologia, arquitetura de software e resolução de problema
 
 ---
 
-🚀 *Construindo sistemas escaláveis, uma linha de código por vez.*
+🚀 *Melhor que um líder sábio, é só um povo sábio - BK.*
