@@ -1,28 +1,31 @@
-### Salve!! 👋 *Sou atualmente um estudante de Informática para Internet na instituição da FAETEC ETEOT e Graduando em computação pela Gran.*
+👋 Bem-vindo(a) ao meu perfil!
 
-Estou atualmente focado em aprender desenvolvimento Back-end.
+**Desenvolvedor Back-end | Técnico em Informática para Internet (FAETEC ETEOT) | Graduando em Análise e Desenvolvimento de Sistemas (Gran)**
 
-**Linguagens e Ferramentas que estou estudando:**
+Sou apaixonado por tecnologia, arquitetura de software e resolução de problemas. Atualmente, meu foco principal é o desenvolvimento **Back-end**, buscando entender não apenas *como* utilizar as linguagens, mas *quando* e *por que* cada arquitetura é a melhor escolha para o negócio.
+
+---
+
+### 💻 Linguagens e Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-### 📚 Meus Estudos Atuais
-- [x] Lógica de Programação
-- [X] C# ASP E .NET
-- [ ] Java & Spring Boot
-- [ ] Ecossistema Node.js & TypeScript
-- [ ] Banco de Dados SQL
+### 📚 Trilha de Estudos e Especialização
+
+- [x] Lógica de Programação e Estruturas de Dados
+- [x] Desenvolvimento em C# e Ecossistema .NET Core
+- [ ] Arquitetura Enterprise com Java & Spring Boot
+- [ ] Construção de APIs com Node.js & TypeScript
+- [ ] Modelagem e Gerenciamento de Banco de Dados Relacional (MySQL)
 
 ---
 
-*Estudante Técnico na FAETEC e Graduando em Computação* 🚀
+🚀 *Construindo sistemas escaláveis, uma linha de código por vez.*
