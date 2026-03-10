@@ -35,5 +35,5 @@ Sou apaixonado por tecnologia, arquitetura de software e resolução de problema
 ---
 
 > [!TIP]
->🚀 *Melhor que um líder sábio, é só um povo sábio - BK.
+>🚀 *Melhor que um líder sábio, é só um povo sábio - BK.*
 
