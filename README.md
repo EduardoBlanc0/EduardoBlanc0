@@ -1,6 +1,6 @@
 👋 Bem-vindo(a) ao meu Portfólio!
 
-**Desenvolvedor Back-end | Técnico em Informática para Internet (FAETEC ETEOT) | Graduando em Análise e Desenvolvimento de Sistemas (Gran)**
+**Desenvolvedor Back-end | Técnico em Informática para Internet (FAETEC ETEOT) | Graduando em Ciência da computação (Gran)**
 
 Carioca, 21y, Sou apaixonado por tecnologia, arquitetura de software e resolução de problemas. Atualmente, meu foco principal é o desenvolvimento **Back-end**, buscando entender não apenas *como* utilizar as linguagens, mas *quando* e *por que* cada arquitetura é a melhor escolha para o negócio.
 
