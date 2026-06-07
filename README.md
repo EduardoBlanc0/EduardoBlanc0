@@ -1,11 +1,5 @@
 --- Bem-vindo(a) 👋 ---
 
----
-
-Carioca, 21y, Sou apaixonado por tecnologia, arquitetura de software e resolução de problemas. Atualmente, meu foco principal é o desenvolvimento **Back-end**, buscando entender não apenas *como* utilizar as linguagens, mas *quando* e *por que* cada arquitetura é a melhor escolha para o negócio.
-
----
-
 ### 💻 Linguagens e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
